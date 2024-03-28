@@ -1,0 +1,115 @@
+
+.page1{
+    background-image:url(amazing-photo-uranus-highly-detailed_839182-826.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    color:whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 180px;
+    padding-right:100px;
+    margin-top: 0px;
+    
+}
+
+
+.page1 h1{
+    font-size: 70px;
+    padding-left:300px;
+}
+
+.page1 hr {
+    width:40%;
+    height: 12px;
+    background:white;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.page1 p{
+    padding-left: 300px;
+    margin-top: 40px;
+}  
+
+.page1 button{
+    margin-left: 540px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.page2{
+    margin-top:0px;
+    height: 380px;
+    width:100%;
+}
+
+.page2 button{
+    margin-right: -25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(254, 255, 255);
+    width:150px;
+    height: 50px;
+    border-radius: 10%;
+    margin-top: 10px;
+}
+
+.page3 h1{
+    margin-top: 50px;
+    margin-left: 450px;
+    font-family: cursive;
+}
+
+.page3 hr {
+    width:40%;
+    height: 12px;
+    background-color:blue;
+    margin-left: 490px;
+    margin-top: 20px;
+}
+
+.card{
+    display: inline-block;
+    margin-left: -13px;
+}
+
+.row{
+    gap:90px;
+    padding-left: 36px;
+    margin-top: 0px;
+    
+}
+
+.page4 button{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(254, 255, 255);
+    width:150px;
+    height: 100px;
+    border-radius: 60%;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 550px;
+}
+
+.page4{
+    height: 340px;
+}
+.page5{
+    margin-top: 130px;
+}
+
+.page5 hr {
+    width:20%;
+    background-color:rgb(14, 14, 128);
+    margin-left: 500px;
+    margin-top: 40px;
+}
+ .page5 p{
+   text-align: center;
+   font-size: 20px; 
+   margin-top: 40px;
+   
+ }
+
